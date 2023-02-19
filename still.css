@@ -1,0 +1,22 @@
+.Menu{
+    background-color: rgb(255, 255, 255);
+    width: 1500px;
+    height: 100px;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font-family:  Georgia, Times, 'Times New Roman', serif;
+}
+.Menu li{
+    display: inline;
+
+}
+
+.Resimler{
+    text-align: center;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+background-color: rgb(255, 230, 220);
+}
+
+.Yeni{
+    background-color: rgb(244, 201, 146);
+}
